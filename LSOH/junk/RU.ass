@@ -135,8 +135,8 @@ Dialogue: 0,0:06:57.79,0:06:59.54,мясник,,0,0,0,,Отлично, ты ув
 Dialogue: 0,0:06:59.54,0:07:01.79,надя,,0,0,0,,Почему бы не дать ему шанс исправиться?
 Dialogue: 0,0:07:01.79,0:07:03.08,мясник,,0,0,0,,Я даю ему шанс уволиться.
 Dialogue: 0,0:07:03.08,0:07:04.25,сёма,,0,0,0,,Я не хочу увольняться...
-Dialogue: 0,0:07:04.25,0:07:06.46,сёма,,0,0,0,,Ты - смелый малый, но ты уволен.
-Dialogue: 0,0:07:06.46,0:07:15.05,сёма,,0,0,0,,Но это не честно, мистер мясник... Я для вас даже специально растение растил, чтобы подарить... Вы такого ни разу в жизни не видели!
+Dialogue: 0,0:07:04.25,0:07:06.46,мясник,,0,0,0,,Ты - смелый малый, но ты уволен.
+Dialogue: 0,0:07:06.46,0:07:15.05,сёма,,0,0,0,,Но это не честно, мистер Мясник... Я для вас даже специально растение растил, чтобы подарить... Вы такого ни разу в жизни не видели!
 Dialogue: 0,0:07:15.05,0:07:17.76,мясник,,0,0,0,,Отлично! я даже не могу продать цветы, что у меня в магазине
 Dialogue: 0,0:07:17.76,0:07:18.64,мясник,,0,0,0,,На выход!
 Dialogue: 0,0:07:18.64,0:07:21.73,борщев,,0,0,0,,Подождите. Если у него и вправду есть \Nчто-то этакое - почему бы вам не...
@@ -158,8 +158,8 @@ Dialogue: 0,0:07:55.22,0:07:57.89,борщев,,0,0,0,,Нет, он зачеса
 Dialogue: 0,0:07:57.89,0:08:00.52,вшивая,,0,0,0,,Ой, да это же был мой двоюродный братец Гарри!
 Dialogue: 0,0:08:01.23,0:08:02.81,мясник,,0,0,0,,Ладно. 
 Dialogue: 0,0:08:02.81,0:08:04.39,мясник,,0,0,0,,Ладно. ЛАДНО.
-Dialogue: 0,0:08:04.39,0:08:08.11,мясник,,0,0,0,,Ты сейчас идешь домой и берешь своё такое - растакое растение и приносишь его сюда.
-Dialogue: 0,0:08:08.11,0:08:11.32,мясник,,0,0,0,,И если мистер желтопуз скажет что это хотя бы приемлимо - остаёшься.
+Dialogue: 0,0:08:04.39,0:08:08.11,мясник,,0,0,0,,Ты сейчас идешь домой и берешь своё такое - \Nрастакое растение и приносишь его сюда.
+Dialogue: 0,0:08:08.11,0:08:11.32,мясник,,0,0,0,,И если мистер желтопуз скажет,\N что это хотя бы приемлимо - остаёшься.
 Dialogue: 0,0:08:11.32,0:08:13.65,мясник,,0,0,0,,Если нет - пойдёшь покорять Париж.
 Dialogue: 0,0:08:13.65,0:08:18.65,сёма,,0,0,0,,Не беспокойтесь, вам понравится. вот увидите!
 Dialogue: 0,0:08:34.47,0:08:36.84,RADIO,,0,0,0,,Это радио КРЭГ
@@ -371,221 +371,227 @@ Dialogue: 0,0:18:05.16,0:18:06.08,мясник,,0,0,0,,What, Mr. Mushnick?
 Dialogue: 0,0:18:06.12,0:18:08.50,мясник,,0,0,0,,I don't want you should\Ncall me Mr. Mushnick anymore.
 Dialogue: 0,0:18:08.54,0:18:10.50,мясник,,0,0,0,,I want you should call me dad.
 Dialogue: 0,0:18:10.67,0:18:12.09,сёма,,0,0,0,,Ok, dad.
-Dialogue: 0,0:18:12.38,0:18:13.92,Default,,0,0,0,,Isn't that beautiful?
-Dialogue: 0,0:18:13.92,0:18:15.46,Default,,0,0,0,,Seymour Krelborn...
-Dialogue: 0,0:18:15.55,0:18:17.26,Default,,0,0,0,,come over here, my son.
-Dialogue: 0,0:18:17.55,0:18:19.80,Default,,0,0,0,,I want to talk on you\Nabout the future.
-Dialogue: 0,0:18:20.14,0:18:22.01,Default,,0,0,0,,Look on this fly trap.
-Dialogue: 0,0:18:22.05,0:18:23.05,Default,,0,0,0,,Look on it.
-Dialogue: 0,0:18:23.14,0:18:25.52,Default,,0,0,0,,Soon we got no more Skid Row.
-Dialogue: 0,0:18:25.68,0:18:27.89,Default,,0,0,0,,We will be rich.\NUs.
-Dialogue: 0,0:18:28.06,0:18:29.69,Default,,0,0,0,,I am building for you...
-Dialogue: 0,0:18:29.77,0:18:33.19,Default,,0,0,0,,a giant greenhouse in which you are\Nmaking impossible flowers...
-Dialogue: 0,0:18:33.40,0:18:36.57,Default,,0,0,0,,which in turn I am selling\Nat ridiculous prices...
-Dialogue: 0,0:18:36.61,0:18:40.16,Default,,0,0,0,,in my giant new flower saloon\Nin Beverly Hills.
-Dialogue: 0,0:18:41.16,0:18:43.62,Default,,0,0,0,,Do you see that big sign in the sky?
-Dialogue: 0,0:18:44.41,0:18:45.58,Default,,0,0,0,,It is saying...
-Dialogue: 0,0:18:46.04,0:18:48.29,Default,,0,0,0,,"Gravis Mushnick", in French.
-Dialogue: 0,0:18:48.41,0:18:49.79,Default,,0,0,0,,Isn't it exciting?
-Dialogue: 0,0:18:50.17,0:18:53.21,Default,,0,0,0,,And we'll have an orchestra\Nright by the cash register,...
-Dialogue: 0,0:18:53.38,0:18:55.21,Default,,0,0,0,,and Gravis will wave his arms...
-Dialogue: 0,0:18:55.25,0:18:58.30,Default,,0,0,0,,and the orchestra will play\NMendelssohn's Spring Song.
-Dialogue: 0,0:18:58.84,0:19:02.26,Default,,0,0,0,,I'll come out in a gown,\Nwrapped by someone expensive and say:
-Dialogue: 0,0:19:02.51,0:19:05.05,Default,,0,0,0,,"The carnations are\N600 dollars a dozen,"...
-Dialogue: 0,0:19:05.10,0:19:06.31,Default,,0,0,0,,"two dozen for a thousand."
-Dialogue: 0,0:19:06.35,0:19:08.98,Default,,0,0,0,,- It's a bargain!\N- Get 'em while they last
-Dialogue: 0,0:19:08.98,0:19:10.06,Default,,0,0,0,,Stop shouting.
-Dialogue: 0,0:19:10.14,0:19:16.57,Default,,0,0,0,,My uncle Moishen's brother Yankel\Njust passed away in New Jersey.
-Dialogue: 0,0:19:16.86,0:19:17.86,Default,,0,0,0,,Tell me...
-Dialogue: 0,0:19:18.03,0:19:19.94,Default,,0,0,0,,how much are the carnations today?
-Dialogue: 0,0:19:19.94,0:19:22.16,Default,,0,0,0,,The carnations are 600 dollars a dozen.
-Dialogue: 0,0:19:22.20,0:19:24.45,Default,,0,0,0,,And why are they\Nletting him run around loose?
-Dialogue: 0,0:19:24.49,0:19:26.99,Default,,0,0,0,,Please.\NPlease excuse my son, Mrs. Shiva.
-Dialogue: 0,0:19:27.04,0:19:29.37,Default,,0,0,0,,Just point anything in the store\Nand it is yours.
-Dialogue: 0,0:19:29.37,0:19:30.62,Default,,0,0,0,,You mean anything?
-Dialogue: 0,0:19:30.66,0:19:31.66,Default,,0,0,0,,That's right.
-Dialogue: 0,0:19:31.66,0:19:33.63,Default,,0,0,0,,- The cash register, maybe, huh?\N- Ah.
-Dialogue: 0,0:19:33.67,0:19:34.79,Default,,0,0,0,,Wait a minute.
-Dialogue: 0,0:19:34.83,0:19:36.04,Default,,0,0,0,,Here.
-Dialogue: 0,0:19:36.09,0:19:39.13,Default,,0,0,0,,Here are several dozen carnations...
-Dialogue: 0,0:19:39.38,0:19:43.51,Default,,0,0,0,,on the house courtesey of\NGravis Mushnick, the bloom tycoon.
-Dialogue: 0,0:19:43.51,0:19:45.60,Default,,0,0,0,,- That's my dad.\N- Thanks.
-Dialogue: 0,0:19:46.26,0:19:47.39,Default,,0,0,0,,Thanks very much.
-Dialogue: 0,0:19:48.56,0:19:49.68,Default,,0,0,0,,Only, tell me...
-Dialogue: 0,0:19:50.06,0:19:51.31,Default,,0,0,0,,Why are you so happy?
-Dialogue: 0,0:19:51.43,0:19:55.69,Default,,0,0,0,,Not only did my uncle Moishe's brother\NYankel die...
-Dialogue: 0,0:19:56.19,0:19:57.82,Default,,0,0,0,,in New Jersey...
-Dialogue: 0,0:19:59.32,0:20:02.61,Default,,0,0,0,,we should also give some flowers\Nto that poor dead plant there.
-Dialogue: 0,0:20:03.53,0:20:05.03,Default,,0,0,0,,Good morning, Mr. Mushnick.
-Dialogue: 0,0:20:06.07,0:20:07.08,Default,,0,0,0,,Good morning.
-Dialogue: 0,0:20:07.66,0:20:08.83,Default,,0,0,0,,Good morning, Mrs. Shiva.
-Dialogue: 0,0:20:08.87,0:20:10.87,Default,,0,0,0,,Look what happened to my plant, dad.
-Dialogue: 0,0:20:10.91,0:20:12.54,Default,,0,0,0,,Who're you calling dad?\NWho? Who?
-Dialogue: 0,0:20:12.54,0:20:13.54,Default,,0,0,0,,Oh no!
-Dialogue: 0,0:20:13.96,0:20:16.79,Default,,0,0,0,,- It was so beautiful just a few seconds ago.\N- Excellent.
-Dialogue: 0,0:20:16.83,0:20:19.92,Default,,0,0,0,,Just a few seconds ago I gave\Naway dozens of carnations.
-Dialogue: 0,0:20:19.92,0:20:21.30,Default,,0,0,0,,Free!\NTo Mrs. Shiva.
-Dialogue: 0,0:20:21.30,0:20:22.30,Default,,0,0,0,,I didn't mean it.
-Dialogue: 0,0:20:23.05,0:20:25.51,Default,,0,0,0,,You have perhaps an explanation.
-Dialogue: 0,0:20:25.72,0:20:28.14,Default,,0,0,0,,No, but if you give me a minute\NI'll think of one.
-Dialogue: 0,0:20:28.14,0:20:29.56,Default,,0,0,0,,I can see it all now.
-Dialogue: 0,0:20:29.76,0:20:31.43,Default,,0,0,0,,We're in the poorhouse.
-Dialogue: 0,0:20:31.47,0:20:34.85,Default,,0,0,0,,The big sign in the sky\Nit is reading:
-Dialogue: 0,0:20:34.98,0:20:38.23,Default,,0,0,0,,"Seymour Krelborn.\NRest in Peace."
-Dialogue: 0,0:20:38.27,0:20:39.48,Default,,0,0,0,,In Arabic!
-Dialogue: 0,0:20:39.52,0:20:41.61,Default,,0,0,0,,Oh, you've got to give him another chance.
-Dialogue: 0,0:20:41.65,0:20:43.61,Default,,0,0,0,,You promised me a week, Mr. Mushnick.
-Dialogue: 0,0:20:43.78,0:20:45.41,Default,,0,0,0,,I'd sit up all night with that plant.
-Dialogue: 0,0:20:45.45,0:20:47.37,Default,,0,0,0,,It'll be healthy in the morning,\Nyou'll see.
-Dialogue: 0,0:20:47.41,0:20:48.45,Default,,0,0,0,,I promise.
-Dialogue: 0,0:20:48.87,0:20:50.03,Default,,0,0,0,,I promise.
+Dialogue: 0,0:18:12.38,0:18:13.92,надя,,0,0,0,,Isn't that beautiful?
+Dialogue: 0,0:18:13.92,0:18:15.46,мясник,,0,0,0,,Seymour Krelborn...
+Dialogue: 0,0:18:15.55,0:18:17.26,мясник,,0,0,0,,come over here, my son.
+Dialogue: 0,0:18:17.55,0:18:19.80,мясник,,0,0,0,,I want to talk on you\Nabout the future.
+Dialogue: 0,0:18:20.14,0:18:22.01,мясник,,0,0,0,,Look on this fly trap.
+Dialogue: 0,0:18:22.05,0:18:23.05,мясник,,0,0,0,,Look on it.
+Dialogue: 0,0:18:23.14,0:18:25.52,мясник,,0,0,0,,Soon we got no more Skid Row.
+Dialogue: 0,0:18:25.68,0:18:27.89,мясник,,0,0,0,,We will be rich.\NUs.
+Dialogue: 0,0:18:28.06,0:18:29.69,мясник,,0,0,0,,I am building for you...
+Dialogue: 0,0:18:29.77,0:18:33.19,мясник,,0,0,0,,a giant greenhouse in which you are\Nmaking impossible flowers...
+Dialogue: 0,0:18:33.40,0:18:36.57,мясник,,0,0,0,,which in turn I am selling\Nat ridiculous prices...
+Dialogue: 0,0:18:36.61,0:18:40.16,мясник,,0,0,0,,in my giant new flower saloon\Nin Beverly Hills.
+Dialogue: 0,0:18:41.16,0:18:43.62,мясник,,0,0,0,,Do you see that big sign in the sky?
+Dialogue: 0,0:18:44.41,0:18:45.58,мясник,,0,0,0,,It is saying...
+Dialogue: 0,0:18:46.04,0:18:48.29,мясник,,0,0,0,,"Gravis Mushnick", in French.
+Dialogue: 0,0:18:48.41,0:18:49.79,надя,,0,0,0,,Isn't it exciting?
+Dialogue: 0,0:18:50.17,0:18:53.21,надя,,0,0,0,,And we'll have an orchestra\Nright by the cash register,...
+Dialogue: 0,0:18:53.38,0:18:55.21,надя,,0,0,0,,and Gravis will wave his arms...
+Dialogue: 0,0:18:55.25,0:18:58.30,надя,,0,0,0,,and the orchestra will play\NMendelssohn's Spring Song.
+Dialogue: 0,0:18:58.84,0:19:02.26,надя,,0,0,0,,I'll come out in a gown,\Nwrapped by someone expensive and say:
+Dialogue: 0,0:19:02.51,0:19:05.05,мясник,,0,0,0,,"The carnations are\N600 dollars a dozen,"...
+Dialogue: 0,0:19:05.10,0:19:06.31,мясник,,0,0,0,,"two dozen for a thousand."
+Dialogue: 0,0:19:06.35,0:19:07.41,сёма,,0,0,0,,- It's a bargain!
+Dialogue: 0,0:19:07.41,0:19:08.98,надя,,0,0,0,,- Get 'em while they last
+Dialogue: 0,0:19:08.98,0:19:10.06,вшивая,,0,0,0,,Stop shouting.
+Dialogue: 0,0:19:10.14,0:19:16.57,вшивая,,0,0,0,,My uncle Moishen's brother Yankel\Njust passed away in New Jersey.
+Dialogue: 0,0:19:16.86,0:19:17.86,вшивая,,0,0,0,,Tell me...
+Dialogue: 0,0:19:18.03,0:19:19.94,вшивая,,0,0,0,,how much are the carnations today?
+Dialogue: 0,0:19:19.94,0:19:22.16,вшивая,,0,0,0,,The carnations are 600 dollars a dozen.
+Dialogue: 0,0:19:22.20,0:19:24.45,вшивая,,0,0,0,,And why are they\Nletting him run around loose?
+Dialogue: 0,0:19:24.49,0:19:26.99,мясник,,0,0,0,,Please.\NPlease excuse my son, Mrs. Shiva.
+Dialogue: 0,0:19:27.04,0:19:29.37,мясник,,0,0,0,,Just point anything in the store\Nand it is yours.
+Dialogue: 0,0:19:29.37,0:19:30.62,мясник,,0,0,0,,You mean anything?
+Dialogue: 0,0:19:30.66,0:19:31.66,мясник,,0,0,0,,That's right.
+Dialogue: 0,0:19:31.66,0:19:33.63,вшивая,,0,0,0,,- The cash register, maybe, huh?\N- Ah.
+Dialogue: 0,0:19:33.67,0:19:34.79,мясник,,0,0,0,,Wait a minute.
+Dialogue: 0,0:19:34.83,0:19:36.04,мясник,,0,0,0,,Here.
+Dialogue: 0,0:19:36.09,0:19:39.13,мясник,,0,0,0,,Here are several dozen carnations...
+Dialogue: 0,0:19:39.38,0:19:43.51,мясник,,0,0,0,,on the house courtesey of\NGravis Mushnick, the bloom tycoon.
+Dialogue: 0,0:19:43.51,0:19:44.84,сёма,,0,0,0,,- That's my dad.
+Dialogue: 0,0:19:44.84,0:19:45.60,вшивая,,0,0,0,,- Thanks.
+Dialogue: 0,0:19:46.26,0:19:47.39,вшивая,,0,0,0,,Thanks very much.
+Dialogue: 0,0:19:48.56,0:19:49.68,вшивая,,0,0,0,,Only, tell me...
+Dialogue: 0,0:19:50.06,0:19:51.31,вшивая,,0,0,0,,Why are you so happy?
+Dialogue: 0,0:19:51.43,0:19:55.69,вшивая,,0,0,0,,Not only did my uncle Moishe's brother\NYankel die...
+Dialogue: 0,0:19:56.19,0:19:57.82,вшивая,,0,0,0,,in New Jersey...
+Dialogue: 0,0:19:59.32,0:20:02.61,вшивая,,0,0,0,,we should also give some flowers\Nto that poor dead plant there.
+Dialogue: 0,0:20:03.53,0:20:05.03,вшивая,,0,0,0,,Good morning, Mr. Mushnick.
+Dialogue: 0,0:20:06.07,0:20:07.08,вшивая,,0,0,0,,Good morning.
+Dialogue: 0,0:20:07.66,0:20:08.83,мясник,,0,0,0,,Good morning, Mrs. Shiva.
+Dialogue: 0,0:20:08.87,0:20:10.87,сёма,,0,0,0,,Look what happened to my plant, dad.
+Dialogue: 0,0:20:10.91,0:20:12.54,мясник,,0,0,0,,Who're you calling dad?\NWho? Who?
+Dialogue: 0,0:20:12.54,0:20:13.54,надя,,0,0,0,,Oh no!
+Dialogue: 0,0:20:13.96,0:20:16.19,надя,,0,0,0,,- It was so beautiful just a few seconds ago.
+Dialogue: 0,0:20:16.19,0:20:16.79,мясник,,0,0,0,,- Excellent.
+Dialogue: 0,0:20:16.83,0:20:19.92,мясник,,0,0,0,,Just a few seconds ago I gave\Naway dozens of carnations.
+Dialogue: 0,0:20:19.92,0:20:21.30,мясник,,0,0,0,,Free!\NTo Mrs. Shiva.
+Dialogue: 0,0:20:21.30,0:20:22.30,сёма,,0,0,0,,I didn't mean it.
+Dialogue: 0,0:20:23.05,0:20:25.51,мясник,,0,0,0,,You have perhaps an explanation.
+Dialogue: 0,0:20:25.72,0:20:28.14,сёма,,0,0,0,,No, but if you give me a minute\NI'll think of one.
+Dialogue: 0,0:20:28.14,0:20:29.56,мясник,,0,0,0,,I can see it all now.
+Dialogue: 0,0:20:29.76,0:20:31.43,мясник,,0,0,0,,We're in the poorhouse.
+Dialogue: 0,0:20:31.47,0:20:34.85,мясник,,0,0,0,,The big sign in the sky\Nit is reading:
+Dialogue: 0,0:20:34.98,0:20:38.23,мясник,,0,0,0,,"Seymour Krelborn.\NRest in Peace."
+Dialogue: 0,0:20:38.27,0:20:39.48,мясник,,0,0,0,,In Arabic!
+Dialogue: 0,0:20:39.52,0:20:41.61,надя,,0,0,0,,Oh, you've got to give him another chance.
+Dialogue: 0,0:20:41.65,0:20:43.61,сёма,,0,0,0,,You promised me a week, Mr. Mushnick.
+Dialogue: 0,0:20:43.78,0:20:45.41,сёма,,0,0,0,,I'd sit up all night with that plant.
+Dialogue: 0,0:20:45.45,0:20:47.37,сёма,,0,0,0,,It'll be healthy in the morning,\Nyou'll see.
+Dialogue: 0,0:20:47.41,0:20:48.45,сёма,,0,0,0,,I promise.
+Dialogue: 0,0:20:48.87,0:20:50.03,сёма,,0,0,0,,I promise.
 Dialogue: 0,0:20:59.29,0:21:02.09,Default,,0,0,0,,{\i1}Feed meeee.{\i0}
 Dialogue: 0,0:21:06.30,0:21:09.35,Default,,0,0,0,,{\i1}Feed meeee.{\i0}
 Dialogue: 0,0:21:10.51,0:21:12.31,Default,,0,0,0,,{\i1}Feed meeee!{\i0}
 Dialogue: 0,0:21:16.10,0:21:17.19,Default,,0,0,0,,Who said that?
-Dialogue: 0,0:21:17.35,0:21:18.35,Default,,0,0,0,,You said that.
-Dialogue: 0,0:21:18.48,0:21:19.69,Default,,0,0,0,,You said that!
+Dialogue: 0,0:21:17.35,0:21:18.35,сёма,,0,0,0,,You said that.
+Dialogue: 0,0:21:18.48,0:21:19.69,сёма,,0,0,0,,You said that!
 Dialogue: 0,0:21:19.81,0:21:22.48,Default,,0,0,0,,Mhm.\NFeed me!
-Dialogue: 0,0:21:24.11,0:21:25.24,Default,,0,0,0,,You said that.
-Dialogue: 0,0:21:26.15,0:21:27.32,Default,,0,0,0,,You can talk.
-Dialogue: 0,0:21:27.78,0:21:29.49,Default,,0,0,0,,I got a talking plant.
+Dialogue: 0,0:21:24.11,0:21:25.24,сёма,,0,0,0,,You said that.
+Dialogue: 0,0:21:26.15,0:21:27.32,сёма,,0,0,0,,You can talk.
+Dialogue: 0,0:21:27.78,0:21:29.49,сёма,,0,0,0,,I got a talking plant.
 Dialogue: 0,0:21:30.20,0:21:31.45,Default,,0,0,0,,- Say it again.\N- Feed me.
-Dialogue: 0,0:21:32.62,0:21:33.75,Default,,0,0,0,,Oh boy!
-Dialogue: 0,0:21:34.33,0:21:37.17,Default,,0,0,0,,I've never been to college and\NI ain't been around much...
-Dialogue: 0,0:21:37.21,0:21:40.96,Default,,0,0,0,,but I would be willing to bet there\Nain't no such thing as a talking plant!
-Dialogue: 0,0:21:40.96,0:21:42.55,Default,,0,0,0,,I'll take your word for it.
-Dialogue: 0,0:21:43.17,0:21:45.21,Default,,0,0,0,,Gee, Junior,\NI'd-I'd like to feed you.
-Dialogue: 0,0:21:45.59,0:21:47.22,Default,,0,0,0,,But I've used up all my fingers.
+Dialogue: 0,0:21:32.62,0:21:33.75,сёма,,0,0,0,,Oh boy!
+Dialogue: 0,0:21:34.33,0:21:37.17,сёма,,0,0,0,,I've never been to college and\NI ain't been around much...
+Dialogue: 0,0:21:37.21,0:21:40.96,сёма,,0,0,0,,but I would be willing to bet there\Nain't no such thing as a talking plant!
+Dialogue: 0,0:21:40.96,0:21:42.55,сёма,,0,0,0,,I'll take your word for it.
+Dialogue: 0,0:21:43.17,0:21:45.21,сёма,,0,0,0,,Gee, Junior,\NI'd-I'd like to feed you.
+Dialogue: 0,0:21:45.59,0:21:47.22,сёма,,0,0,0,,But I've used up all my fingers.
 Dialogue: 0,0:21:47.55,0:21:49.89,Default,,0,0,0,,Feeeeeeed.
-Dialogue: 0,0:21:52.51,0:21:54.72,Default,,0,0,0,,Look at me,\NI'm all cut to pieces.
-Dialogue: 0,0:21:54.97,0:21:58.02,Default,,0,0,0,,But maybe I can find\Nanother drop here someplace.
-Dialogue: 0,0:22:04.40,0:22:06.07,Default,,0,0,0,,That's the best I can do.
+Dialogue: 0,0:21:52.51,0:21:54.72,сёма,,0,0,0,,Look at me,\NI'm all cut to pieces.
+Dialogue: 0,0:21:54.97,0:21:58.02,сёма,,0,0,0,,But maybe I can find\Nanother drop here someplace.
+Dialogue: 0,0:22:04.40,0:22:06.07,сёма,,0,0,0,,That's the best I can do.
 Dialogue: 0,0:22:06.32,0:22:08.86,Default,,0,0,0,,More!\NMore!
-Dialogue: 0,0:22:08.91,0:22:10.57,Default,,0,0,0,,But I'm already anaemic.
+Dialogue: 0,0:22:08.91,0:22:10.57,сёма,,0,0,0,,But I'm already anaemic.
 Dialogue: 0,0:22:11.24,0:22:14.04,Default,,0,0,0,,Feed me more!
-Dialogue: 0,0:22:14.33,0:22:15.33,Default,,0,0,0,,See, Junior,...
-Dialogue: 0,0:22:15.37,0:22:17.46,Default,,0,0,0,,I'd be happy to give you anything I got...
-Dialogue: 0,0:22:17.79,0:22:21.13,Default,,0,0,0,,but I gotta keep a little blood for\Nmyself or I'll be in worse shape than ma.
+Dialogue: 0,0:22:14.33,0:22:15.33,сёма,,0,0,0,,See, Junior,...
+Dialogue: 0,0:22:15.37,0:22:17.46,сёма,,0,0,0,,I'd be happy to give you anything I got...
+Dialogue: 0,0:22:17.79,0:22:21.13,сёма,,0,0,0,,but I gotta keep a little blood for\Nmyself or I'll be in worse shape than ma.
 Dialogue: 0,0:22:21.13,0:22:22.38,Default,,0,0,0,,Mmm.
-Dialogue: 0,0:22:23.09,0:22:24.50,Default,,0,0,0,,I'm sorry, Junior.
-Dialogue: 0,0:22:24.84,0:22:27.30,Default,,0,0,0,,I'll go for a walk.\NMaybe I'll think of something.
+Dialogue: 0,0:22:23.09,0:22:24.50,сёма,,0,0,0,,I'm sorry, Junior.
+Dialogue: 0,0:22:24.84,0:22:27.30,сёма,,0,0,0,,I'll go for a walk.\NMaybe I'll think of something.
 Dialogue: 0,0:25:10.63,0:25:12.63,Default,,0,0,0,,Feed me!
 Dialogue: 0,0:25:13.59,0:25:15.55,Default,,0,0,0,,Feed me!
-Dialogue: 0,0:25:15.68,0:25:16.84,Default,,0,0,0,,Look, chow-hound.
-Dialogue: 0,0:25:17.68,0:25:19.76,Default,,0,0,0,,Don't bother me.\NI got problems of my own.
+Dialogue: 0,0:25:15.68,0:25:16.84,сёма,,0,0,0,,Look, chow-hound.
+Dialogue: 0,0:25:17.68,0:25:19.76,сёма,,0,0,0,,Don't bother me.\NI got problems of my own.
 Dialogue: 0,0:25:20.14,0:25:21.35,Default,,0,0,0,,Feed me!
-Dialogue: 0,0:25:21.81,0:25:24.77,Default,,0,0,0,,I am sorry, pal. I am fresh out of blood.\NTalk to somebody else.
-Dialogue: 0,0:25:24.77,0:25:26.52,Default,,0,0,0,,I am hungry!
-Dialogue: 0,0:25:26.56,0:25:28.15,Default,,0,0,0,,I don't care what you are.
-Dialogue: 0,0:25:28.65,0:25:30.15,Default,,0,0,0,,Can't you see I am knocked out?
-Dialogue: 0,0:25:30.15,0:25:31.44,Default,,0,0,0,,I just killed a man.
-Dialogue: 0,0:25:32.02,0:25:33.19,Default,,0,0,0,,I'm a murderer.
-Dialogue: 0,0:25:33.73,0:25:35.44,Default,,0,0,0,,Think it's fun to be a murderer?
-Dialogue: 0,0:25:35.49,0:25:36.70,Default,,0,0,0,,You think it's fun to...
-Dialogue: 0,0:25:36.74,0:25:38.20,Default,,0,0,0,,haul around a sack full of...
+Dialogue: 0,0:25:21.81,0:25:24.77,сёма,,0,0,0,,I am sorry, pal. I am fresh out of blood.\NTalk to somebody else.
+Dialogue: 0,0:25:24.77,0:25:26.52,сёма,,0,0,0,,I am hungry!
+Dialogue: 0,0:25:26.56,0:25:28.15,сёма,,0,0,0,,I don't care what you are.
+Dialogue: 0,0:25:28.65,0:25:30.15,сёма,,0,0,0,,Can't you see I am knocked out?
+Dialogue: 0,0:25:30.15,0:25:31.44,сёма,,0,0,0,,I just killed a man.
+Dialogue: 0,0:25:32.02,0:25:33.19,сёма,,0,0,0,,I'm a murderer.
+Dialogue: 0,0:25:33.73,0:25:35.44,сёма,,0,0,0,,Think it's fun to be a murderer?
+Dialogue: 0,0:25:35.49,0:25:36.70,сёма,,0,0,0,,You think it's fun to...
+Dialogue: 0,0:25:36.74,0:25:38.20,сёма,,0,0,0,,haul around a sack full of...
 Dialogue: 0,0:25:38.24,0:25:40.12,Default,,0,0,0,,fooooood.
-Dialogue: 0,0:25:40.28,0:25:43.45,Default,,0,0,0,,No, no, Junior!\NWhat kind of guy do you think I am?
+Dialogue: 0,0:25:40.28,0:25:43.45,сёма,,0,0,0,,No, no, Junior!\NWhat kind of guy do you think I am?
 Dialogue: 0,0:25:43.49,0:25:45.45,Default,,0,0,0,,I'm starved.
-Dialogue: 0,0:25:49.13,0:25:50.50,Default,,0,0,0,,Maybe just a snack.
+Dialogue: 0,0:25:49.13,0:25:50.50,сёма,,0,0,0,,Maybe just a snack.
 Dialogue: 0,0:26:00.01,0:26:01.26,Default,,0,0,0,,That looks great.
-Dialogue: 0,0:26:14.32,0:26:15.32,Default,,0,0,0,,What you call that salad?
-Dialogue: 0,0:26:15.32,0:26:16.32,Default,,0,0,0,,Nefarious.
-Dialogue: 0,0:26:17.36,0:26:18.90,Default,,0,0,0,,Well, before the next course...
-Dialogue: 0,0:26:19.41,0:26:21.07,Default,,0,0,0,,I think I'll have a nice cigar.
-Dialogue: 0,0:26:21.07,0:26:22.07,Default,,0,0,0,,Alright?
-Dialogue: 0,0:26:22.62,0:26:24.08,Default,,0,0,0,,You would like maybe a cigar?
+Dialogue: 0,0:26:14.32,0:26:15.32,мясник,,0,0,0,,What you call that salad?
+Dialogue: 0,0:26:15.32,0:26:16.32,надя,,0,0,0,,Nefarious.
+Dialogue: 0,0:26:17.36,0:26:18.90,мясник,,0,0,0,,Well, before the next course...
+Dialogue: 0,0:26:19.41,0:26:21.07,мясник,,0,0,0,,I think I'll have a nice cigar.
+Dialogue: 0,0:26:21.07,0:26:22.07,мясник,,0,0,0,,Alright?
+Dialogue: 0,0:26:22.62,0:26:24.08,мясник,,0,0,0,,You would like maybe a cigar?
 Dialogue: 0,0:26:24.20,0:26:25.62,Default,,0,0,0,,- Ha-ha-ha.\N- Ha-ha-ha.
-Dialogue: 0,0:26:25.62,0:26:27.58,Default,,0,0,0,,Ah, you don't smoke cigars, right.
-Dialogue: 0,0:26:27.75,0:26:30.12,Default,,0,0,0,,What am I thinking about?\NWhere are the matches?
-Dialogue: 0,0:26:31.08,0:26:32.25,Default,,0,0,0,,Oh, oi!
-Dialogue: 0,0:26:33.09,0:26:34.17,Default,,0,0,0,,You know what I found?
-Dialogue: 0,0:26:34.88,0:26:36.38,Default,,0,0,0,,I'm looking for the matches...
-Dialogue: 0,0:26:37.05,0:26:39.26,Default,,0,0,0,,And I found I left the\Nmoney in the red suit.
+Dialogue: 0,0:26:25.62,0:26:27.58,мясник,,0,0,0,,Ah, you don't smoke cigars, right.
+Dialogue: 0,0:26:27.75,0:26:30.12,мясник,,0,0,0,,What am I thinking about?\NWhere are the matches?
+Dialogue: 0,0:26:31.08,0:26:32.25,мясник,,0,0,0,,Oh, oi!
+Dialogue: 0,0:26:33.09,0:26:34.17,мясник,,0,0,0,,You know what I found?
+Dialogue: 0,0:26:34.88,0:26:36.38,мясник,,0,0,0,,I'm looking for the matches...
+Dialogue: 0,0:26:37.05,0:26:39.26,мясник,,0,0,0,,And I found I left the\Nmoney in the red suit.
 Dialogue: 0,0:26:42.35,0:26:44.18,Default,,0,0,0,,Here's your mock chicken leg.
-Dialogue: 0,0:26:44.39,0:26:45.64,Default,,0,0,0,,You don't have any money?
+Dialogue: 0,0:26:44.39,0:26:45.64,надя,,0,0,0,,You don't have any money?
 Dialogue: 0,0:26:49.39,0:26:51.06,Default,,0,0,0,,So what else is new?
 Dialogue: 0,0:26:51.15,0:26:52.69,Default,,0,0,0,,Alright.\NAlright!
 Dialogue: 0,0:26:52.69,0:26:53.81,Default,,0,0,0,,I made a mistake.
-Dialogue: 0,0:26:53.94,0:26:55.78,Default,,0,0,0,,After all, a man is entitled.
+Dialogue: 0,0:26:53.94,0:26:55.78,мясник,,0,0,0,,After all, a man is entitled.
 Dialogue: 0,0:26:56.36,0:26:58.07,Default,,0,0,0,,Go on. This is your story.
 Dialogue: 0,0:26:58.32,0:26:59.74,Default,,0,0,0,,I'll wait for the punch.
-Dialogue: 0,0:26:59.95,0:27:02.24,Default,,0,0,0,,Don't get smart with me, girlie.
-Dialogue: 0,0:27:02.37,0:27:05.28,Default,,0,0,0,,I'll have you know that in my shop\Nin the cash register...
-Dialogue: 0,0:27:05.28,0:27:07.87,Default,,0,0,0,,I'm having the total day's receipts...
-Dialogue: 0,0:27:08.04,0:27:10.67,Default,,0,0,0,,which is summing up\Nto more than nine dollars.
-Dialogue: 0,0:27:10.83,0:27:12.50,Default,,0,0,0,,You'll bring the rest of the food...
-Dialogue: 0,0:27:12.50,0:27:14.84,Default,,0,0,0,,and I'll go the the\Nshop and get the money!
+Dialogue: 0,0:26:59.95,0:27:02.24,мясник,,0,0,0,,Don't get smart with me, girlie.
+Dialogue: 0,0:27:02.37,0:27:05.28,мясник,,0,0,0,,I'll have you know that in my shop\Nin the cash register...
+Dialogue: 0,0:27:05.28,0:27:07.87,мясник,,0,0,0,,I'm having the total day's receipts...
+Dialogue: 0,0:27:08.04,0:27:10.67,мясник,,0,0,0,,which is summing up\Nto more than nine dollars.
+Dialogue: 0,0:27:10.83,0:27:12.50,мясник,,0,0,0,,You'll bring the rest of the food...
+Dialogue: 0,0:27:12.50,0:27:14.84,мясник,,0,0,0,,and I'll go the the\Nshop and get the money!
 Dialogue: 0,0:27:15.38,0:27:18.30,Default,,0,0,0,,You are playing my favorite song.
 Dialogue: 0,0:27:18.88,0:27:20.30,Default,,0,0,0,,Now, look here, buster.
 Dialogue: 0,0:27:20.55,0:27:23.30,Default,,0,0,0,,One of you is gonna go down\Nright now and get the loot...
 Dialogue: 0,0:27:23.34,0:27:27.01,Default,,0,0,0,,while the other one stays here\Nuntil the first one gets back.
 Dialogue: 0,0:27:27.35,0:27:29.18,Default,,0,0,0,,If you get what I mean?
-Dialogue: 0,0:27:29.18,0:27:30.23,Default,,0,0,0,,Oh, fine.
-Dialogue: 0,0:27:30.27,0:27:34.15,Default,,0,0,0,,In this fancy schmancy restaurant\Nyou are holding hostages, right?
+Dialogue: 0,0:27:29.18,0:27:30.23,мясник,,0,0,0,,Oh, fine.
+Dialogue: 0,0:27:30.27,0:27:34.15,мясник,,0,0,0,,In this fancy schmancy restaurant\Nyou are holding hostages, right?
 Dialogue: 0,0:27:34.15,0:27:35.15,Default,,0,0,0,,Right.
-Dialogue: 0,0:27:36.48,0:27:37.48,Default,,0,0,0,,Excellent.
-Dialogue: 0,0:27:38.57,0:27:40.11,Default,,0,0,0,,You eat up, Audrey.
-Dialogue: 0,0:27:40.57,0:27:43.11,Default,,0,0,0,,I'll be back in a flash\Nwith the cash.
-Dialogue: 0,0:27:43.11,0:27:44.12,Default,,0,0,0,,Bye, Gravis.
-Dialogue: 0,0:28:01.51,0:28:04.30,Default,,0,0,0,,{\i1}♪ 'tis the season to be jolly{\i0}
-Dialogue: 0,0:28:04.68,0:28:07.81,Default,,0,0,0,,{\i1}♪ Fa-la-la-la-la,\Nla-la-la-la-la-la-la.{\i0}
-Dialogue: 0,0:28:08.56,0:28:12.31,Default,,0,0,0,,{\i1}♪ 'tis the season to be jolly{\i0}
-Dialogue: 0,0:28:12.73,0:28:14.35,Default,,0,0,0,,{\i1}♪ Fa-la-la-la{\i0}
-Dialogue: 0,0:28:14.81,0:28:17.31,Default,,0,0,0,,{\i1}♪ La-la-la{\i0}
-Dialogue: 0,0:28:17.86,0:28:20.11,Default,,0,0,0,,{\i1}♪ 'tis the season{\i0}
-Dialogue: 0,0:28:21.11,0:28:22.90,Default,,0,0,0,,{\i1}♪ To be jolly{\i0}
-Dialogue: 0,0:28:23.07,0:28:25.66,Default,,0,0,0,,{\i1}♪ Fa-la-la-la{\i0}
-Dialogue: 0,0:28:25.74,0:28:27.78,Default,,0,0,0,,{\i1}♪ La-la-la{\i0}
+Dialogue: 0,0:27:36.48,0:27:37.48,мясник,,0,0,0,,Excellent.
+Dialogue: 0,0:27:38.57,0:27:40.11,мясник,,0,0,0,,You eat up, Audrey.
+Dialogue: 0,0:27:40.57,0:27:43.11,мясник,,0,0,0,,I'll be back in a flash\Nwith the cash.
+Dialogue: 0,0:27:43.11,0:27:44.12,надя,,0,0,0,,Bye, Gravis.
+Dialogue: 0,0:28:01.51,0:28:04.30,сёма,,0,0,0,,{\i1}♪ 'tis the season to be jolly{\i0}
+Dialogue: 0,0:28:04.68,0:28:07.81,сёма,,0,0,0,,{\i1}♪ Fa-la-la-la-la,\Nla-la-la-la-la-la-la.{\i0}
+Dialogue: 0,0:28:08.56,0:28:12.31,сёма,,0,0,0,,{\i1}♪ 'tis the season to be jolly{\i0}
+Dialogue: 0,0:28:12.73,0:28:14.35,сёма,,0,0,0,,{\i1}♪ Fa-la-la-la{\i0}
+Dialogue: 0,0:28:14.81,0:28:17.31,сёма,,0,0,0,,{\i1}♪ La-la-la{\i0}
+Dialogue: 0,0:28:17.86,0:28:20.11,сёма,,0,0,0,,{\i1}♪ 'tis the season{\i0}
+Dialogue: 0,0:28:21.11,0:28:22.90,сёма,,0,0,0,,{\i1}♪ To be jolly{\i0}
+Dialogue: 0,0:28:23.07,0:28:25.66,сёма,,0,0,0,,{\i1}♪ Fa-la-la-la{\i0}
+Dialogue: 0,0:28:25.74,0:28:27.78,сёма,,0,0,0,,{\i1}♪ La-la-la{\i0}
 Dialogue: 0,0:28:31.75,0:28:33.08,Default,,0,0,0,,You're flush now, right?
-Dialogue: 0,0:28:34.04,0:28:37.08,Default,,0,0,0,,Bring me whiskey, rum, wine, gin, bourbon.
-Dialogue: 0,0:28:37.25,0:28:41.55,Default,,0,0,0,,- Why?\N- Scotch, rye, tequila, sake, manishevitz
+Dialogue: 0,0:28:34.04,0:28:37.08,мясник,,0,0,0,,Bring me whiskey, rum, wine, gin, bourbon.
+Dialogue: 0,0:28:37.25,0:28:41.55,мясник,,0,0,0,,- Why?\N- Scotch, rye, tequila, sake, manishevitz
 Dialogue: 0,0:28:41.59,0:28:42.88,Default,,0,0,0,,Did you bring the money?
-Dialogue: 0,0:28:42.88,0:28:46.14,Default,,0,0,0,,Don't mock me with the money.\NI got to get drunk now.
+Dialogue: 0,0:28:42.88,0:28:46.14,мясник,,0,0,0,,Don't mock me with the money.\NI got to get drunk now.
 Dialogue: 0,0:28:46.18,0:28:47.47,Default,,0,0,0,,What's with him?
-Dialogue: 0,0:28:47.47,0:28:48.60,Default,,0,0,0,,- I don't know.\N- Look.
-Dialogue: 0,0:28:48.72,0:28:50.72,Default,,0,0,0,,Here, take it.\NBring me anything.
-Dialogue: 0,0:28:50.77,0:28:53.14,Default,,0,0,0,,Bring everything. Creme de menthe.\NEverything you've got!
+Dialogue: 0,0:28:47.47,0:28:48.24,надя,,0,0,0,,- I don't know.
+Dialogue: 0,0:28:48.24,0:28:48.60,мясник,,0,0,0,,- Look.
+Dialogue: 0,0:28:48.72,0:28:50.72,мясник,,0,0,0,,Here, take it.\NBring me anything.
+Dialogue: 0,0:28:50.77,0:28:53.14,мясник,,0,0,0,,Bring everything. Creme de menthe.\NEverything you've got!
 Dialogue: 0,0:28:53.14,0:28:54.19,Default,,0,0,0,,Ok!
-Dialogue: 0,0:28:55.56,0:28:56.56,Default,,0,0,0,,Gravis?
-Dialogue: 0,0:28:56.73,0:28:58.36,Default,,0,0,0,,- What happened?\N- Don't ask.
-Dialogue: 0,0:28:58.56,0:29:00.02,Default,,0,0,0,,You look like you've seen a ghost.
-Dialogue: 0,0:29:00.02,0:29:02.28,Default,,0,0,0,,Ghosts I could handle.\NDon't ask.
-Dialogue: 0,0:29:02.44,0:29:04.03,Default,,0,0,0,,Why don't you tell me?\NMaybe I could help you.
-Dialogue: 0,0:29:04.07,0:29:05.53,Default,,0,0,0,,Help, you couldn't.
-Dialogue: 0,0:29:06.11,0:29:08.53,Default,,0,0,0,,Try and eat something.\NIt'll calm your agrimation.
-Dialogue: 0,0:29:11.49,0:29:12.87,Default,,0,0,0,,In mine own shop...
-Dialogue: 0,0:29:13.66,0:29:15.25,Default,,0,0,0,,Audrey, you wouldn't believe it.
-Dialogue: 0,0:29:15.71,0:29:17.12,Default,,0,0,0,,I wish you'd break out and tell me.
-Dialogue: 0,0:29:17.17,0:29:18.29,Default,,0,0,0,,Alright, I'll tell you.
-Dialogue: 0,0:29:18.29,0:29:21.13,Default,,0,0,0,,Tomorrow.\NRight after I am telling the police.
-Dialogue: 0,0:29:24.09,0:29:26.01,Default,,0,0,0,,{\i1}But Mushnick didn't come to the police.{\i0}
-Dialogue: 0,0:29:26.80,0:29:27.76,Default,,0,0,0,,If he had...
-Dialogue: 0,0:29:27.97,0:29:30.76,Default,,0,0,0,,{\i1}that might have been the\Nfinish of the unhappy story.{\i0}
-Dialogue: 0,0:29:30.76,0:29:31.76,Default,,0,0,0,,It was not.
-Dialogue: 0,0:29:49.24,0:29:50.24,Default,,0,0,0,,Hi, Gravis.
-Dialogue: 0,0:29:50.66,0:29:54.12,Default,,0,0,0,,85 dollars worth of business\Nalready, and we've barely opened!
+Dialogue: 0,0:28:55.56,0:28:56.56,надя,,0,0,0,,Gravis?
+Dialogue: 0,0:28:56.73,0:28:57.66,надя,,0,0,0,,- What happened?
+Dialogue: 0,0:28:57.66,0:28:58.36,мясник,,0,0,0,,- Don't ask.
+Dialogue: 0,0:28:58.56,0:29:00.02,надя,,0,0,0,,You look like you've seen a ghost.
+Dialogue: 0,0:29:00.02,0:29:02.28,мясник,,0,0,0,,Ghosts I could handle.\NDon't ask.
+Dialogue: 0,0:29:02.44,0:29:04.03,надя,,0,0,0,,Why don't you tell me?\NMaybe I could help you.
+Dialogue: 0,0:29:04.07,0:29:05.53,мясник,,0,0,0,,Help, you couldn't.
+Dialogue: 0,0:29:06.11,0:29:08.53,надя,,0,0,0,,Try and eat something.\NIt'll calm your agrimation.
+Dialogue: 0,0:29:11.49,0:29:12.87,мясник,,0,0,0,,In mine own shop...
+Dialogue: 0,0:29:13.66,0:29:15.25,мясник,,0,0,0,,Audrey, you wouldn't believe it.
+Dialogue: 0,0:29:15.71,0:29:17.12,надя,,0,0,0,,I wish you'd break out and tell me.
+Dialogue: 0,0:29:17.17,0:29:18.29,мясник,,0,0,0,,Alright, I'll tell you.
+Dialogue: 0,0:29:18.29,0:29:21.13,мясник,,0,0,0,,Tomorrow.\NRight after I am telling the police.
+Dialogue: 0,0:29:24.09,0:29:26.01,пупа,,0,0,0,,{\i1}But Mushnick didn't come to the police.{\i0}
+Dialogue: 0,0:29:26.80,0:29:27.76,пупа,,0,0,0,,If he had...
+Dialogue: 0,0:29:27.97,0:29:30.76,пупа,,0,0,0,,{\i1}that might have been the\Nfinish of the unhappy story.{\i0}
+Dialogue: 0,0:29:30.76,0:29:31.76,пупа,,0,0,0,,It was not.
+Dialogue: 0,0:29:49.24,0:29:50.24,надя,,0,0,0,,Hi, Gravis.
+Dialogue: 0,0:29:50.66,0:29:54.12,надя,,0,0,0,,85 dollars worth of business\Nalready, and we've barely opened!
 Dialogue: 0,0:29:57.04,0:29:58.04,Default,,0,0,0,,What'd I tell you?
 Dialogue: 0,0:29:58.08,0:30:01.42,Default,,0,0,0,,You wouldn't be interested in selling\Na half-interest to this place, huh?
-Dialogue: 0,0:30:01.46,0:30:03.42,Default,,0,0,0,,- Mr. Mushnick.\N- We talked to the comittee.
-Dialogue: 0,0:30:03.42,0:30:05.88,Default,,0,0,0,,- And they said we could use your flowers.\N- On the float.
-Dialogue: 0,0:30:05.88,0:30:08.47,Default,,0,0,0,,- And guess what?\N- We're going to feature Audrey Jr.
-Dialogue: 0,0:30:08.51,0:30:10.97,Default,,0,0,0,,- Right on top.\N- Can't you just picture it?
-Dialogue: 0,0:30:11.01,0:30:13.64,Default,,0,0,0,,- I can picture it.\N- Oh, won't the people just eat it up?
-Dialogue: 0,0:30:13.68,0:30:14.97,Default,,0,0,0,,Eat up the people.
-Dialogue: 0,0:30:15.06,0:30:17.02,Default,,0,0,0,,And we're gonna have\Nthe big part of it open.
-Dialogue: 0,0:30:17.06,0:30:18.39,Default,,0,0,0,,- Of course she can fit in it.\N- Who?
-Dialogue: 0,0:30:18.39,0:30:20.65,Default,,0,0,0,,- The queen.\N- With her crown and scepter.
-Dialogue: 0,0:30:20.90,0:30:22.23,Default,,0,0,0,,She'll be so cute!
-Dialogue: 0,0:30:22.27,0:30:24.86,Default,,0,0,0,,- Oh, you could just eat her up.\N- Eat up the girl.
-Dialogue: 0,0:30:24.90,0:30:26.36,Default,,0,0,0,,Oh, there's Seymour!
-Dialogue: 0,0:30:26.44,0:30:28.20,Default,,0,0,0,,Oh, Seymour!
-Dialogue: 0,0:30:28.24,0:30:29.70,Default,,0,0,0,,Ow, ow, ow, ow!\NI got a toothache.
-Dialogue: 0,0:30:29.70,0:30:31.57,Default,,0,0,0,,Ow, I got a toothache.\NReally, I...
-Dialogue: 0,0:30:32.28,0:30:33.28,Default,,0,0,0,,You...
-Dialogue: 0,0:30:33.33,0:30:35.66,Default,,0,0,0,,- Come with me.\N- I got a toothache! It hurts!
-Dialogue: 0,0:30:35.66,0:30:37.29,Default,,0,0,0,,Ow, let go of my jaw.
-Dialogue: 0,0:30:38.75,0:30:40.00,Default,,0,0,0,,Ow, my jaw.\NOw, ow.
-Dialogue: 0,0:30:40.21,0:30:41.46,Default,,0,0,0,,Owwww.
+Dialogue: 0,0:30:01.46,0:30:03.42,девки,,0,0,0,,- Mr. Mushnick.\N- We talked to the comittee.
+Dialogue: 0,0:30:03.42,0:30:05.88,девки,,0,0,0,,- And they said we could use your flowers.\N- On the float.
+Dialogue: 0,0:30:05.88,0:30:08.47,девки,,0,0,0,,- And guess what?\N- We're going to feature Audrey Jr.
+Dialogue: 0,0:30:08.51,0:30:10.97,девки,,0,0,0,,- Right on top.\N- Can't you just picture it?
+Dialogue: 0,0:30:11.01,0:30:13.64,девки,,0,0,0,,- I can picture it.\N- Oh, won't the people just eat it up?
+Dialogue: 0,0:30:13.68,0:30:14.97,мясник,,0,0,0,,Eat up the people.
+Dialogue: 0,0:30:15.06,0:30:17.02,девки,,0,0,0,,And we're gonna have\Nthe big part of it open.
+Dialogue: 0,0:30:17.06,0:30:18.39,девки,,0,0,0,,- Of course she can fit in it.\N- Who?
+Dialogue: 0,0:30:18.39,0:30:20.65,девки,,0,0,0,,- The queen.\N- With her crown and scepter.
+Dialogue: 0,0:30:20.90,0:30:22.23,девки,,0,0,0,,She'll be so cute!
+Dialogue: 0,0:30:22.27,0:30:24.86,девки,,0,0,0,,- Oh, you could just eat her up.\N- Eat up the girl.
+Dialogue: 0,0:30:24.90,0:30:26.36,девки,,0,0,0,,Oh, there's Seymour!
+Dialogue: 0,0:30:26.44,0:30:28.20,девки,,0,0,0,,Oh, Seymour!
+Dialogue: 0,0:30:28.24,0:30:29.70,сёма,,0,0,0,,Ow, ow, ow, ow!\NI got a toothache.
+Dialogue: 0,0:30:29.70,0:30:31.57,сёма,,0,0,0,,Ow, I got a toothache.\NReally, I...
+Dialogue: 0,0:30:32.28,0:30:33.28,мясник,,0,0,0,,You...
+Dialogue: 0,0:30:33.33,0:30:34.10,мясник,,0,0,0,,- Come with me.
+Dialogue: 0,0:30:34.10,0:30:35.66,сёма,,0,0,0,,- I got a toothache! It hurts!
+Dialogue: 0,0:30:35.66,0:30:37.29,сёма,,0,0,0,,Ow, let go of my jaw.
+Dialogue: 0,0:30:38.75,0:30:40.00,сёма,,0,0,0,,Ow, my jaw.\NOw, ow.
+Dialogue: 0,0:30:40.21,0:30:41.46,сёма,,0,0,0,,Owwww.
 Dialogue: 0,0:30:41.58,0:30:42.67,Default,,0,0,0,,Now, Seymour.
 Dialogue: 0,0:30:42.88,0:30:43.88,Default,,0,0,0,,Talk on me!
 Dialogue: 0,0:30:43.88,0:30:45.84,Default,,0,0,0,,I got a toothache.\NWhat do you wanna talk about?
