@@ -10,10 +10,10 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Active Line: 622
+Active Line: 759
 Video File: ../Little Shop Of Horrors in Color!.mp4
 Audio File: ../Little Shop Of Horrors in Color!.mp4
-Video Position: 50035
+Video Position: 57467
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -452,7 +452,8 @@ Dialogue: 0,0:21:19.81,0:21:22.48,Default,,0,0,0,,Mhm.\NFeed me!
 Dialogue: 0,0:21:24.11,0:21:25.24,сёма,,0,0,0,,You said that.
 Dialogue: 0,0:21:26.15,0:21:27.32,сёма,,0,0,0,,You can talk.
 Dialogue: 0,0:21:27.78,0:21:29.49,сёма,,0,0,0,,I got a talking plant.
-Dialogue: 0,0:21:30.20,0:21:31.45,Default,,0,0,0,,- Say it again.\N- Feed me.
+Dialogue: 0,0:21:30.20,0:21:30.95,сёма,,0,0,0,,- Say it again.
+Dialogue: 0,0:21:30.95,0:21:31.45,Default,,0,0,0,,- Feed me.
 Dialogue: 0,0:21:32.62,0:21:33.75,сёма,,0,0,0,,Oh boy!
 Dialogue: 0,0:21:34.33,0:21:37.17,сёма,,0,0,0,,I've never been to college and\NI ain't been around much...
 Dialogue: 0,0:21:37.21,0:21:40.96,сёма,,0,0,0,,but I would be willing to bet there\Nain't no such thing as a talking plant!
@@ -497,35 +498,36 @@ Dialogue: 0,0:26:17.36,0:26:18.90,мясник,,0,0,0,,Well, before the next cou
 Dialogue: 0,0:26:19.41,0:26:21.07,мясник,,0,0,0,,I think I'll have a nice cigar.
 Dialogue: 0,0:26:21.07,0:26:22.07,мясник,,0,0,0,,Alright?
 Dialogue: 0,0:26:22.62,0:26:24.08,мясник,,0,0,0,,You would like maybe a cigar?
-Dialogue: 0,0:26:24.20,0:26:25.62,Default,,0,0,0,,- Ha-ha-ha.\N- Ha-ha-ha.
+Dialogue: 0,0:26:24.20,0:26:25.62,надя,,0,0,0,,- Ha-ha-ha.
+Dialogue: 0,0:26:24.20,0:26:25.62,мясник,,0,0,0,,- Ha-ha-ha.
 Dialogue: 0,0:26:25.62,0:26:27.58,мясник,,0,0,0,,Ah, you don't smoke cigars, right.
 Dialogue: 0,0:26:27.75,0:26:30.12,мясник,,0,0,0,,What am I thinking about?\NWhere are the matches?
 Dialogue: 0,0:26:31.08,0:26:32.25,мясник,,0,0,0,,Oh, oi!
 Dialogue: 0,0:26:33.09,0:26:34.17,мясник,,0,0,0,,You know what I found?
 Dialogue: 0,0:26:34.88,0:26:36.38,мясник,,0,0,0,,I'm looking for the matches...
 Dialogue: 0,0:26:37.05,0:26:39.26,мясник,,0,0,0,,And I found I left the\Nmoney in the red suit.
-Dialogue: 0,0:26:42.35,0:26:44.18,Default,,0,0,0,,Here's your mock chicken leg.
+Dialogue: 0,0:26:42.35,0:26:44.18,борщев,,0,0,0,,Here's your mock chicken leg.
 Dialogue: 0,0:26:44.39,0:26:45.64,надя,,0,0,0,,You don't have any money?
-Dialogue: 0,0:26:49.39,0:26:51.06,Default,,0,0,0,,So what else is new?
-Dialogue: 0,0:26:51.15,0:26:52.69,Default,,0,0,0,,Alright.\NAlright!
-Dialogue: 0,0:26:52.69,0:26:53.81,Default,,0,0,0,,I made a mistake.
+Dialogue: 0,0:26:49.39,0:26:51.06,борщев,,0,0,0,,So what else is new?
+Dialogue: 0,0:26:51.15,0:26:52.69,мясник,,0,0,0,,Alright.\NAlright!
+Dialogue: 0,0:26:52.69,0:26:53.81,мясник,,0,0,0,,I made a mistake.
 Dialogue: 0,0:26:53.94,0:26:55.78,мясник,,0,0,0,,After all, a man is entitled.
-Dialogue: 0,0:26:56.36,0:26:58.07,Default,,0,0,0,,Go on. This is your story.
-Dialogue: 0,0:26:58.32,0:26:59.74,Default,,0,0,0,,I'll wait for the punch.
+Dialogue: 0,0:26:56.36,0:26:58.07,борщев,,0,0,0,,Go on. This is your story.
+Dialogue: 0,0:26:58.32,0:26:59.74,борщев,,0,0,0,,I'll wait for the punch.
 Dialogue: 0,0:26:59.95,0:27:02.24,мясник,,0,0,0,,Don't get smart with me, girlie.
 Dialogue: 0,0:27:02.37,0:27:05.28,мясник,,0,0,0,,I'll have you know that in my shop\Nin the cash register...
 Dialogue: 0,0:27:05.28,0:27:07.87,мясник,,0,0,0,,I'm having the total day's receipts...
 Dialogue: 0,0:27:08.04,0:27:10.67,мясник,,0,0,0,,which is summing up\Nto more than nine dollars.
 Dialogue: 0,0:27:10.83,0:27:12.50,мясник,,0,0,0,,You'll bring the rest of the food...
 Dialogue: 0,0:27:12.50,0:27:14.84,мясник,,0,0,0,,and I'll go the the\Nshop and get the money!
-Dialogue: 0,0:27:15.38,0:27:18.30,Default,,0,0,0,,You are playing my favorite song.
-Dialogue: 0,0:27:18.88,0:27:20.30,Default,,0,0,0,,Now, look here, buster.
-Dialogue: 0,0:27:20.55,0:27:23.30,Default,,0,0,0,,One of you is gonna go down\Nright now and get the loot...
-Dialogue: 0,0:27:23.34,0:27:27.01,Default,,0,0,0,,while the other one stays here\Nuntil the first one gets back.
-Dialogue: 0,0:27:27.35,0:27:29.18,Default,,0,0,0,,If you get what I mean?
+Dialogue: 0,0:27:15.38,0:27:18.30,борщев,,0,0,0,,You are playing my favorite song.
+Dialogue: 0,0:27:18.88,0:27:20.30,борщев,,0,0,0,,Now, look here, buster.
+Dialogue: 0,0:27:20.55,0:27:23.30,борщев,,0,0,0,,One of you is gonna go down\Nright now and get the loot...
+Dialogue: 0,0:27:23.34,0:27:27.01,борщев,,0,0,0,,while the other one stays here\Nuntil the first one gets back.
+Dialogue: 0,0:27:27.35,0:27:29.18,борщев,,0,0,0,,If you get what I mean?
 Dialogue: 0,0:27:29.18,0:27:30.23,мясник,,0,0,0,,Oh, fine.
 Dialogue: 0,0:27:30.27,0:27:34.15,мясник,,0,0,0,,In this fancy schmancy restaurant\Nyou are holding hostages, right?
-Dialogue: 0,0:27:34.15,0:27:35.15,Default,,0,0,0,,Right.
+Dialogue: 0,0:27:34.15,0:27:35.15,борщев,,0,0,0,,Right.
 Dialogue: 0,0:27:36.48,0:27:37.48,мясник,,0,0,0,,Excellent.
 Dialogue: 0,0:27:38.57,0:27:40.11,мясник,,0,0,0,,You eat up, Audrey.
 Dialogue: 0,0:27:40.57,0:27:43.11,мясник,,0,0,0,,I'll be back in a flash\Nwith the cash.
@@ -539,17 +541,17 @@ Dialogue: 0,0:28:17.86,0:28:20.11,сёма,,0,0,0,,{\i1}♪ 'tis the season{\i0}
 Dialogue: 0,0:28:21.11,0:28:22.90,сёма,,0,0,0,,{\i1}♪ To be jolly{\i0}
 Dialogue: 0,0:28:23.07,0:28:25.66,сёма,,0,0,0,,{\i1}♪ Fa-la-la-la{\i0}
 Dialogue: 0,0:28:25.74,0:28:27.78,сёма,,0,0,0,,{\i1}♪ La-la-la{\i0}
-Dialogue: 0,0:28:31.75,0:28:33.08,Default,,0,0,0,,You're flush now, right?
+Dialogue: 0,0:28:31.75,0:28:33.08,борщев,,0,0,0,,You're flush now, right?
 Dialogue: 0,0:28:34.04,0:28:37.08,мясник,,0,0,0,,Bring me whiskey, rum, wine, gin, bourbon.
 Dialogue: 0,0:28:37.25,0:28:41.55,мясник,,0,0,0,,- Why?\N- Scotch, rye, tequila, sake, manishevitz
-Dialogue: 0,0:28:41.59,0:28:42.88,Default,,0,0,0,,Did you bring the money?
+Dialogue: 0,0:28:41.59,0:28:42.88,борщев,,0,0,0,,Did you bring the money?
 Dialogue: 0,0:28:42.88,0:28:46.14,мясник,,0,0,0,,Don't mock me with the money.\NI got to get drunk now.
-Dialogue: 0,0:28:46.18,0:28:47.47,Default,,0,0,0,,What's with him?
+Dialogue: 0,0:28:46.18,0:28:47.47,борщев,,0,0,0,,What's with him?
 Dialogue: 0,0:28:47.47,0:28:48.24,надя,,0,0,0,,- I don't know.
 Dialogue: 0,0:28:48.24,0:28:48.60,мясник,,0,0,0,,- Look.
 Dialogue: 0,0:28:48.72,0:28:50.72,мясник,,0,0,0,,Here, take it.\NBring me anything.
 Dialogue: 0,0:28:50.77,0:28:53.14,мясник,,0,0,0,,Bring everything. Creme de menthe.\NEverything you've got!
-Dialogue: 0,0:28:53.14,0:28:54.19,Default,,0,0,0,,Ok!
+Dialogue: 0,0:28:53.14,0:28:54.19,борщев,,0,0,0,,Ok!
 Dialogue: 0,0:28:55.56,0:28:56.56,надя,,0,0,0,,Gravis?
 Dialogue: 0,0:28:56.73,0:28:57.66,надя,,0,0,0,,- What happened?
 Dialogue: 0,0:28:57.66,0:28:58.36,мясник,,0,0,0,,- Don't ask.
@@ -569,8 +571,8 @@ Dialogue: 0,0:29:27.97,0:29:30.76,пупа,,0,0,0,,{\i1}that might have been the
 Dialogue: 0,0:29:30.76,0:29:31.76,пупа,,0,0,0,,It was not.
 Dialogue: 0,0:29:49.24,0:29:50.24,надя,,0,0,0,,Hi, Gravis.
 Dialogue: 0,0:29:50.66,0:29:54.12,надя,,0,0,0,,85 dollars worth of business\Nalready, and we've barely opened!
-Dialogue: 0,0:29:57.04,0:29:58.04,Default,,0,0,0,,What'd I tell you?
-Dialogue: 0,0:29:58.08,0:30:01.42,Default,,0,0,0,,You wouldn't be interested in selling\Na half-interest to this place, huh?
+Dialogue: 0,0:29:57.04,0:29:58.04,борщев,,0,0,0,,What'd I tell you?
+Dialogue: 0,0:29:58.08,0:30:01.42,борщев,,0,0,0,,You wouldn't be interested in selling\Na half-interest to this place, huh?
 Dialogue: 0,0:30:01.46,0:30:03.42,девки,,0,0,0,,- Mr. Mushnick.\N- We talked to the comittee.
 Dialogue: 0,0:30:03.42,0:30:05.88,девки,,0,0,0,,- And they said we could use your flowers.\N- On the float.
 Dialogue: 0,0:30:05.88,0:30:08.47,девки,,0,0,0,,- And guess what?\N- We're going to feature Audrey Jr.
@@ -763,7 +765,7 @@ Dialogue: 0,0:38:13.37,0:38:16.08,Default,,0,0,0,,I'll recommend you to all my f
 Dialogue: 0,0:38:16.08,0:38:17.21,сёма,,0,0,0,,Thank you.\NBye.
 Dialogue: 0,0:38:17.25,0:38:18.62,Default,,0,0,0,,Bye, now.
 Dialogue: 0,0:38:27.34,0:38:29.34,Default,,0,0,0,,Feed me!
-Dialogue: 0,0:38:29.43,0:38:30.72,федя,,0,0,0,,Oh, take it easy, Dracula.
+Dialogue: 0,0:38:29.43,0:38:30.72,сёма,,0,0,0,,Oh, take it easy, Dracula.
 Dialogue: 0,0:38:30.72,0:38:33.39,сёма,,0,0,0,,What do you think I'm carrying here?\NMy dirty laundry?
 Dialogue: 0,0:38:38.14,0:38:39.23,Default,,0,0,0,,{\i1}Feed!{\i0}
 Dialogue: 0,0:38:39.35,0:38:41.36,сёма,,0,0,0,,I'm coming!\NI'm coming already.
@@ -780,16 +782,18 @@ Dialogue: 0,0:39:14.01,0:39:15.06,сёма,,0,0,0,,Want anything else?
 Dialogue: 0,0:39:15.31,0:39:17.06,Default,,0,0,0,,[BURP]
 Dialogue: 0,0:39:17.35,0:39:18.35,Default,,0,0,0,,[BURP]
 Dialogue: 0,0:39:19.10,0:39:20.39,сёма,,0,0,0,,See you in the morning.
-Dialogue: 0,0:39:40.21,0:39:41.21,Default,,0,0,0,,Come in.
-Dialogue: 0,0:39:42.67,0:39:43.67,Default,,0,0,0,,It's me, Joe.
-Dialogue: 0,0:39:44.17,0:39:45.13,Default,,0,0,0,,Good morning, Frank.
-Dialogue: 0,0:39:46.09,0:39:47.21,Default,,0,0,0,,How's the wife, Frank?
-Dialogue: 0,0:39:47.25,0:39:49.01,Default,,0,0,0,,- Not bad, Joe.\N- Glad to hear it.
-Dialogue: 0,0:39:49.26,0:39:50.84,Default,,0,0,0,,- The kids?\N- Lost one yesterday.
-Dialogue: 0,0:39:51.01,0:39:52.63,Default,,0,0,0,,Awful, eh?\NHow did that happen?
-Dialogue: 0,0:39:52.80,0:39:54.14,Default,,0,0,0,,Playing with matches.
-Dialogue: 0,0:39:54.18,0:39:55.51,Default,,0,0,0,,Well, those are the breaks.
-Dialogue: 0,0:39:55.55,0:39:56.56,Default,,0,0,0,,Yeah, I guess so.
+Dialogue: 0,0:39:40.21,0:39:41.21,лупа,,0,0,0,,Come in.
+Dialogue: 0,0:39:42.67,0:39:43.67,пупа,,0,0,0,,It's me, Joe.
+Dialogue: 0,0:39:44.17,0:39:45.13,лупа,,0,0,0,,Good morning, Frank.
+Dialogue: 0,0:39:46.09,0:39:47.21,лупа,,0,0,0,,How's the wife, Frank?
+Dialogue: 0,0:39:47.25,0:39:48.05,пупа,,0,0,0,,- Not bad, Joe.
+Dialogue: 0,0:39:48.05,0:39:49.01,лупа,,0,0,0,,- Glad to hear it.
+Dialogue: 0,0:39:49.26,0:39:49.80,лупа,,0,0,0,,- The kids?
+Dialogue: 0,0:39:49.80,0:39:50.84,пупа,,0,0,0,,- Lost one yesterday.
+Dialogue: 0,0:39:51.01,0:39:52.63,лупа,,0,0,0,,Awful, eh?\NHow did that happen?
+Dialogue: 0,0:39:52.80,0:39:54.14,пупа,,0,0,0,,Playing with matches.
+Dialogue: 0,0:39:54.18,0:39:55.51,лупа,,0,0,0,,Well, those are the breaks.
+Dialogue: 0,0:39:55.55,0:39:56.56,пупа,,0,0,0,,Yeah, I guess so.
 Dialogue: 0,0:39:56.89,0:39:58.01,Default,,0,0,0,,Got a strange one here.
 Dialogue: 0,0:39:58.14,0:40:00.73,Default,,0,0,0,,Railroad people say the last one of their\Nbest detectives the other night.
 Dialogue: 0,0:40:00.77,0:40:01.69,Default,,0,0,0,,Where?
