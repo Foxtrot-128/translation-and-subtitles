@@ -10,10 +10,10 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Active Line: 917
+Active Line: 697
 Video File: ../Little Shop Of Horrors in Color!.mp4
 Audio File: ../Little Shop Of Horrors in Color!.mp4
-Video Position: 65265
+Video Position: 52840
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -408,7 +408,8 @@ Dialogue: 0,0:19:24.49,0:19:26.99,мясник,,0,0,0,,Please.\NPlease excuse my
 Dialogue: 0,0:19:27.04,0:19:29.37,мясник,,0,0,0,,Just point anything in the store\Nand it is yours.
 Dialogue: 0,0:19:29.37,0:19:30.62,мясник,,0,0,0,,You mean anything?
 Dialogue: 0,0:19:30.66,0:19:31.66,мясник,,0,0,0,,That's right.
-Dialogue: 0,0:19:31.66,0:19:33.63,вшивая,,0,0,0,,- The cash register, maybe, huh?\N- Ah.
+Dialogue: 0,0:19:31.66,0:19:33.36,вшивая,,0,0,0,,- The cash register, maybe, huh?
+Dialogue: 0,0:19:33.36,0:19:33.63,мясник,,0,0,0,,- Ah.
 Dialogue: 0,0:19:33.67,0:19:34.79,мясник,,0,0,0,,Wait a minute.
 Dialogue: 0,0:19:34.83,0:19:36.04,мясник,,0,0,0,,Here.
 Dialogue: 0,0:19:36.09,0:19:39.13,мясник,,0,0,0,,Here are several dozen carnations...
@@ -580,13 +581,16 @@ Dialogue: 0,0:30:01.46,0:30:03.42,девки / крутящий момент,,0,
 Dialogue: 0,0:30:03.42,0:30:05.88,девки / крутящий момент,,0,0,0,,- And they said we could use your flowers.\N- On the float.
 Dialogue: 0,0:30:05.88,0:30:08.47,девки / крутящий момент,,0,0,0,,- And guess what?\N- We're going to feature Audrey Jr.
 Dialogue: 0,0:30:08.51,0:30:10.97,девки / крутящий момент,,0,0,0,,- Right on top.\N- Can't you just picture it?
-Dialogue: 0,0:30:11.01,0:30:13.64,девки / крутящий момент,,0,0,0,,- I can picture it.\N- Oh, won't the people just eat it up?
+Dialogue: 0,0:30:11.01,0:30:11.88,мясник,,0,0,0,,- I can picture it.
+Dialogue: 0,0:30:11.88,0:30:13.64,девки / крутящий момент,,0,0,0,,- Oh, won't the people just eat it up?
 Dialogue: 0,0:30:13.68,0:30:14.97,мясник,,0,0,0,,Eat up the people.
 Dialogue: 0,0:30:15.06,0:30:17.02,девки / крутящий момент,,0,0,0,,And we're gonna have\Nthe big part of it open.
-Dialogue: 0,0:30:17.06,0:30:18.39,девки / крутящий момент,,0,0,0,,- Of course she can fit in it.\N- Who?
+Dialogue: 0,0:30:17.06,0:30:17.89,девки / крутящий момент,,0,0,0,,- Of course she can fit in it.
+Dialogue: 0,0:30:17.89,0:30:18.39,мясник,,0,0,0,,- Who?
 Dialogue: 0,0:30:18.39,0:30:20.65,девки / крутящий момент,,0,0,0,,- The queen.\N- With her crown and scepter.
 Dialogue: 0,0:30:20.90,0:30:22.23,девки / крутящий момент,,0,0,0,,She'll be so cute!
-Dialogue: 0,0:30:22.27,0:30:24.86,девки / крутящий момент,,0,0,0,,- Oh, you could just eat her up.\N- Eat up the girl.
+Dialogue: 0,0:30:22.27,0:30:23.92,девки / крутящий момент,,0,0,0,,- Oh, you could just eat her up.
+Dialogue: 0,0:30:23.92,0:30:24.86,мясник,,0,0,0,,- Eat up the girl.
 Dialogue: 0,0:30:24.90,0:30:26.36,девки / крутящий момент,,0,0,0,,Oh, there's Seymour!
 Dialogue: 0,0:30:26.44,0:30:28.20,девки / крутящий момент,,0,0,0,,Oh, Seymour!
 Dialogue: 0,0:30:28.24,0:30:29.70,сёма,,0,0,0,,Ow, ow, ow, ow!\NI got a toothache.
@@ -731,7 +735,7 @@ Dialogue: 0,0:36:28.10,0:36:29.77,девки / крутящий момент,,0,
 Dialogue: 0,0:36:30.14,0:36:34.73,девки / крутящий момент,,0,0,0,,The man had cancer,\Ntuberculosis, leprosy...
 Dialogue: 0,0:36:34.90,0:36:36.69,девки / крутящий момент,,0,0,0,,and a touch of the grippe.
 Dialogue: 0,0:36:37.81,0:36:39.61,девки / крутящий момент,,0,0,0,,I decided to operate.
-Dialogue: 0,0:36:39.69,0:36:41.82,девки / крутящий момент,,0,0,0,,My... my patient just left.
+Dialogue: 0,0:36:39.69,0:36:41.82,сёма,,0,0,0,,My... my patient just left.
 Dialogue: 0,0:36:41.90,0:36:43.53,сёма,,0,0,0,,You cou... you could come in now.
 Dialogue: 0,0:36:43.82,0:36:44.86,девки / крутящий момент,,0,0,0,,Oh goodie.
 Dialogue: 0,0:36:47.49,0:36:50.16,девки / крутящий момент,,0,0,0,,- I didn't see the other man leave.\N- Well...
