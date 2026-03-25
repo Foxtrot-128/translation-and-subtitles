@@ -10,10 +10,10 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Active Line: 552
+Active Line: 470
 Video File: ../Little Shop Of Horrors in Color!.mp4
 Audio File: ../Little Shop Of Horrors in Color!.mp4
-Video Position: 44100
+Video Position: 38417
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -508,7 +508,7 @@ Dialogue: 0,0:26:33.09,0:26:34.17,мясник,,0,0,0,,Знаешь что?
 Dialogue: 0,0:26:34.17,0:26:34.88,надя,,0,0,0,,Хм?
 Dialogue: 0,0:26:34.88,0:26:36.38,мясник,,0,0,0,,Я искал спички и вдруг понял,
 Dialogue: 0,0:26:37.05,0:26:39.26,мясник,,0,0,0,,что оставил деньги в \Nкрасном костюме.
-Dialogue: 0,0:26:42.35,0:26:44.18,борщев / оффициант,,0,0,0,,Here's your mock chicken leg.
+Dialogue: 0,0:26:42.35,0:26:44.18,борщев / оффициант,,0,0,0,,Вот ваша куриная ножка.
 Dialogue: 0,0:26:44.39,0:26:45.64,надя,,0,0,0,,У тебя вообще нет с собой денег?
 Dialogue: 0,0:26:49.39,0:26:51.06,борщев / оффициант,,0,0,0,,Ну ничего не меняется...
 Dialogue: 0,0:26:51.15,0:26:52.69,мясник,,0,0,0,,Ладно. \N{\b1}Ладно!{\b0}
