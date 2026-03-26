@@ -10,14 +10,10 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-<<<<<<< Updated upstream
-Active Line: 958
-=======
 Active Line: 827
->>>>>>> Stashed changes
 Video File: ../Little Shop Of Horrors in Color!.mp4
 Audio File: ../Little Shop Of Horrors in Color!.mp4
-Video Position: 55320
+Video Position: 60700
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -869,8 +865,8 @@ Dialogue: 0,0:42:04.31,0:42:06.31,девки / крутящий момент,,0,
 Dialogue: 0,0:42:06.35,0:42:08.31,мясник,,0,0,0,,Не могу щас говорить с вами, леди.
 Dialogue: 0,0:42:08.56,0:42:09.65,мясник,,0,0,0,,Говорите с надей.
 Dialogue: 0,0:42:09.69,0:42:11.48,девки / крутящий момент,,0,0,0,,У нас лист.\NС планом.
-Dialogue: 0,0:42:11.48,0:42:13.36,надя,,0,0,0,,Ладно. Давайте посмотрим на него.
-Dialogue: 0,0:42:13.36,0:42:13.36,девки / крутящий момент,,0,0,0,,Давайте.
+Dialogue: 0,0:42:11.48,0:42:12.57,надя,,0,0,0,,Ладно. Давайте посмотрим на него.
+Dialogue: 0,0:42:12.57,0:42:13.36,девки / крутящий момент,,0,0,0,,Давайте.
 Dialogue: 0,0:42:13.36,0:42:14.40,борщев / оффициант,,0,0,0,,Чё, есть чё вкусное?
 Dialogue: 0,0:42:14.48,0:42:15.49,сёма,,0,0,0,,Глянь на моё растение!
 Dialogue: 0,0:42:15.78,0:42:17.50,борщев / оффициант,,0,0,0,,Мм, какое большое.
