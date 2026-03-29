@@ -10,10 +10,10 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Active Line: 1013
+Active Line: 1024
 Video File: ../Little Shop Of Horrors in Color!.mp4
 Audio File: ../Little Shop Of Horrors in Color!.mp4
-Video Position: 72081
+Video Position: 72715
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1051,18 +1051,18 @@ Dialogue: 0,0:49:55.15,0:49:56.15,мясник,,0,0,0,,Голоден?
 Dialogue: 0,0:49:56.65,0:49:58.91,мясник,,0,0,0,,Теперь мне еще один рот кормить?
 Dialogue: 0,0:49:59.78,0:50:01.78,мясник,,0,0,0,,Ну и кого ты на этот раз сожрать хочешь?
 Dialogue: 0,0:50:02.49,0:50:04.25,семицветик,,0,0,0,,Ты выглядишь достаточно жирно.
-Dialogue: 0,0:50:06.41,0:50:10.04,мясник,,0,0,0,,We not only got a talking plant,\Nwe got one that makes with smart cracks.
-Dialogue: 0,0:50:10.67,0:50:13.71,мясник,,0,0,0,,Will you listen to me, you botanical bum?
-Dialogue: 0,0:50:14.05,0:50:15.38,мясник,,0,0,0,,Food you wouldn't get.
-Dialogue: 0,0:50:15.76,0:50:17.26,мясник,,0,0,0,,Not from Gravis Mushnick.
-Dialogue: 0,0:50:17.38,0:50:18.97,семицветик,,0,0,0,,I'm starved.
-Dialogue: 0,0:50:19.09,0:50:20.22,мясник,,0,0,0,,Excellent.
-Dialogue: 0,0:50:20.68,0:50:22.93,мясник,,0,0,0,,You would unpopulate all Skid Row.
-Dialogue: 0,0:50:23.14,0:50:24.14,мясник,,0,0,0,,Well...
-Dialogue: 0,0:50:25.02,0:50:26.64,мясник,,0,0,0,,You can forget about it.
-Dialogue: 0,0:50:27.02,0:50:29.65,мясник,,0,0,0,,You wouldn't get fed from\NGravis mushnick tonight.
-Dialogue: 0,0:50:31.27,0:50:32.27,мясник,,0,0,0,,Good night
-Dialogue: 0,0:50:32.86,0:50:34.57,семицветик,,0,0,0,,You'll get yours.
+Dialogue: 0,0:50:06.41,0:50:10.04,мясник,,0,0,0,,У нас тут не просто говорящее растение, \Nоно еще и острить умеет!
+Dialogue: 0,0:50:10.67,0:50:13.71,мясник,,0,0,0,,Слушай сюда, травяная хищная задница.
+Dialogue: 0,0:50:14.05,0:50:15.38,мясник,,0,0,0,,Еду ты не получишь.
+Dialogue: 0,0:50:15.76,0:50:17.26,мясник,,0,0,0,,Не от Гравия Мясника!
+Dialogue: 0,0:50:17.38,0:50:18.97,семицветик,,0,0,0,,Я ГОЛОДЕЕННН!
+Dialogue: 0,0:50:19.09,0:50:20.22,мясник,,0,0,0,,Отлично!
+Dialogue: 0,0:50:20.68,0:50:22.93,мясник,,0,0,0,,Ты мне всех клиентов сожрешь.
+Dialogue: 0,0:50:23.14,0:50:24.14,мясник,,0,0,0,,Теперь...
+Dialogue: 0,0:50:25.02,0:50:26.64,мясник,,0,0,0,,Забудь об этом.
+Dialogue: 0,0:50:27.02,0:50:29.65,мясник,,0,0,0,,Ты не получишь еды от \NГравия Мясника сегодня.
+Dialogue: 0,0:50:31.27,0:50:32.27,мясник,,0,0,0,,Доброй ночи.
+Dialogue: 0,0:50:32.86,0:50:34.57,семицветик,,0,0,0,,Будь по твоему...
 Dialogue: 0,0:50:41.74,0:50:43.45,надя,,0,0,0,,I kinda like this chow mein.
 Dialogue: 0,0:50:43.62,0:50:45.12,матя,,0,0,0,,Uh, if it tastes a little bitter...
 Dialogue: 0,0:50:45.12,0:50:48.12,матя,,0,0,0,,it's because it's made\Nof Chinese herbs and it's...
